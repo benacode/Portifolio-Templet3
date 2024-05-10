@@ -1,0 +1,9 @@
+
+@media screen (min-width:375px){
+    
+
+.demo{
+    display: flex;
+    flex-direction: column;
+}
+}
